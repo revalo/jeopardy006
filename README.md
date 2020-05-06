@@ -1,4 +1,4 @@
-# algopardy
+# Jeopardy006 
 
 ## Project setup
 ```

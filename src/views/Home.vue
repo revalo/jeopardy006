@@ -1,6 +1,6 @@
 <template>
   <div>
-    <h2>Algopardy!</h2>
+    <h2>Jeopardy006!</h2>
     <div class="home">
       <div class="a">
         <Team name="A"></Team>
